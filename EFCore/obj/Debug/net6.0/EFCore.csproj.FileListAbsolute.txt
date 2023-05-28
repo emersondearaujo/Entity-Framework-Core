@@ -1,0 +1,15 @@
+C:\Users\emers\source\repos\sistemaodonto\projeto1\projeto\EFCore\bin\Debug\net6.0\EFCore.exe
+C:\Users\emers\source\repos\sistemaodonto\projeto1\projeto\EFCore\bin\Debug\net6.0\EFCore.deps.json
+C:\Users\emers\source\repos\sistemaodonto\projeto1\projeto\EFCore\bin\Debug\net6.0\EFCore.runtimeconfig.json
+C:\Users\emers\source\repos\sistemaodonto\projeto1\projeto\EFCore\bin\Debug\net6.0\EFCore.dll
+C:\Users\emers\source\repos\sistemaodonto\projeto1\projeto\EFCore\bin\Debug\net6.0\EFCore.pdb
+C:\Users\emers\source\repos\sistemaodonto\projeto1\projeto\EFCore\obj\Debug\net6.0\EFCore.csproj.AssemblyReference.cache
+C:\Users\emers\source\repos\sistemaodonto\projeto1\projeto\EFCore\obj\Debug\net6.0\EFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emers\source\repos\sistemaodonto\projeto1\projeto\EFCore\obj\Debug\net6.0\EFCore.AssemblyInfoInputs.cache
+C:\Users\emers\source\repos\sistemaodonto\projeto1\projeto\EFCore\obj\Debug\net6.0\EFCore.AssemblyInfo.cs
+C:\Users\emers\source\repos\sistemaodonto\projeto1\projeto\EFCore\obj\Debug\net6.0\EFCore.csproj.CoreCompileInputs.cache
+C:\Users\emers\source\repos\sistemaodonto\projeto1\projeto\EFCore\obj\Debug\net6.0\EFCore.dll
+C:\Users\emers\source\repos\sistemaodonto\projeto1\projeto\EFCore\obj\Debug\net6.0\refint\EFCore.dll
+C:\Users\emers\source\repos\sistemaodonto\projeto1\projeto\EFCore\obj\Debug\net6.0\EFCore.pdb
+C:\Users\emers\source\repos\sistemaodonto\projeto1\projeto\EFCore\obj\Debug\net6.0\EFCore.genruntimeconfig.cache
+C:\Users\emers\source\repos\sistemaodonto\projeto1\projeto\EFCore\obj\Debug\net6.0\ref\EFCore.dll
